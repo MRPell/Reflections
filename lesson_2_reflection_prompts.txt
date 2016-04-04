@@ -7,3 +7,6 @@ working directory that will become part of your repository
 
 How can you use the staging area to make sure you have one commit per logical change?
 Compare it to the working directory and the repository
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+if you want to try out something new, but aren't sure if that's the direction you want to head
