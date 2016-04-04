@@ -13,3 +13,6 @@ if you want to try out something new, but aren't sure if that's the direction yo
 
 How do the diagrams help you visualize the branch structure?
 They let you see what changes are part of what branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+combines additions of two branches and removes deletions made in each branch. all commits become part of the same branch
