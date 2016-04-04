@@ -10,3 +10,6 @@ Compare it to the working directory and the repository
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 if you want to try out something new, but aren't sure if that's the direction you want to head
+
+How do the diagrams help you visualize the branch structure?
+They let you see what changes are part of what branches
