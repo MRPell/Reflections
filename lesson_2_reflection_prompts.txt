@@ -4,3 +4,6 @@ When you intitialize a repository, a .git file is added. You need to do it so th
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 the staging area is temporary, allows you to make more meaningful commits. It is the part of your 
 working directory that will become part of your repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+Compare it to the working directory and the repository
